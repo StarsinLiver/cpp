@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "chrono": "cpp",
+    "filesystem": "cpp",
+    "algorithm": "cpp",
+    "xutility": "cpp",
+    "xstring": "cpp",
+    "vector": "cpp",
+    "array": "cpp",
+    "deque": "cpp",
+    "format": "cpp",
+    "forward_list": "cpp",
+    "initializer_list": "cpp",
+    "list": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "xtree": "cpp",
+    "ostream": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "iostream": "cpp"
+  }
+}
